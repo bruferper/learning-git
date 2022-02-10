@@ -2,6 +2,10 @@
 
 Useful commands that I used when I was learning Git & GitHub. I hope they are also useful to you! :fire:
 
+This is a general structure of the Git workflow.
+
+![](general-structure.png)
+
 ### Working in the staging area (local)
 
 **Add files**
